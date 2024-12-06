@@ -19,4 +19,4 @@ After running the script, wait a few seconds for it to rank your CPU and then it
 # "Can I use this in my project?" 
 Yes, you can, as long as you credit me somewhere in the script or app that you used this script in.
 Please include my username and profile - something like this:
-"CPU Detection Script credits to @PowerPCFan on GitHub - https://github.com/PowerPCFan/" 
+"CPU Detection Script credits to @PowerPCFan on GitHub - https://github.com/PowerPCFan/cpu-rank-detector/" 
