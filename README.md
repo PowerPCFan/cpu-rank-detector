@@ -1,0 +1,1 @@
+# cpu-rank-detector
