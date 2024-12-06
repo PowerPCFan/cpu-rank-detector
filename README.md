@@ -4,12 +4,12 @@ This simple PowerShell script detects how good a CPU is using a list of desktop 
 # Supported Models
 All consumer-grade desktop and laptop CPUs up to Intel 14th gen/AMD 9000 series *should* work. 
 
-# Outputs and Running the Script
-Ways to run the script:
+# Running the Script
 - Invoke-RestMethod or Invoke-WebRequest piped to Invoke-Expression - executes the file directly from GitHub, that way you will always have the latest version of the script
 - Download file - the latest version won't automatically execute, but this might be useful if you want to ensure it always runs or runs without Internet
-After running the script, wait a few seconds for it to rank your CPU and then it will return a raw CPU ranking output.
-**Possible Outputs:**
+After running the script, wait a few seconds for it to rank your CPU and then it will return a raw CPU ranking output. See below for possible outputs
+
+# Possible Outputs:
 - lowEnd - The CPU is considered low-end
 - midRange - The CPU is considered mid-range
 - highEnd - The CPU is considered high-end
